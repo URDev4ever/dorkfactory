@@ -1,5 +1,9 @@
 <h1 align="center">dorkfactory</h1>
 <p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
+<p align="center">
   <img width="577" height="432" alt="image-removebg-preview (40)" src="https://github.com/user-attachments/assets/ecb08480-e1aa-436d-a6a8-7af892b38e6f" />
 </p>
 <h3 align="center">Dork Factory is a cross-platform, interactive command-line tool designed to generate high-quality Google and Yandex dorks for Passive Recon &amp; Discovery.</h3>
