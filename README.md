@@ -1,4 +1,4 @@
-<h1 align="center">dorkfactory</h1>
+<h1 align="center">Dork Factory</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
   🇪🇸 <a href="README_ES.md">Español</a>
