@@ -205,6 +205,16 @@ Usalo de forma responsable y únicamente sobre objetivos que estés autorizado a
 
 ---
 
+## ⭐ Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran la lógica de generación de dorks, la calidad de las consultas o la compatibilidad con motores de búsqueda (Google / Yandex)
+* Mejoran el flujo interactivo, la claridad de la experiencia o los formatos de exportación sin sobrecomplicar la interfaz
+* Mantienen la filosofía completamente pasiva de la herramienta (sin scraping, sin crawling, sin interacción activa con los targets)
+
+---
+
 ## 🏁 Notas Finales
 
 **Dork Factory** convierte los motores de búsqueda en herramientas de recon estructurado, aportando claridad, velocidad y organización a flujos de descubrimiento pasivo.
