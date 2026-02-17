@@ -209,6 +209,16 @@ Use responsibly and only on targets you are authorized to research.
 
 ---
 
+## ⭐ Contributing
+
+Pull requests are welcome if they:
+
+* Improve dork generation logic, query quality, or search engine compatibility (Google / Yandex)
+* Enhance interactive workflow, UX clarity, or export formatting without overcomplicating the interface
+* Maintain the fully passive philosophy of the tool (no scraping, no crawling, no active interaction with targets)
+
+---
+
 ## 🏁 Final Notes
 
 **Dork Factory** turns search engines into structured recon tools, providing clarity, speed, and organization to passive discovery workflows.
