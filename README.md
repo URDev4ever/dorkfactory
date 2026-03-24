@@ -1,6 +1,6 @@
 <h1 align="center">Dork Factory</h1>
 <p align="center">
-  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇺🇸 <b>English</b>|
   🇪🇸 <a href="README_ES.md">Español</a>
 </p>
 <p align="center">
