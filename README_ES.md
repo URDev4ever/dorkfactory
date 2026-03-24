@@ -1,7 +1,7 @@
 <h1 align="center">Dork Factory</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 <p align="center">
   <img width="577" height="432" alt="image-removebg-preview (40)" src="https://github.com/user-attachments/assets/ecb08480-e1aa-436d-a6a8-7af892b38e6f" />
